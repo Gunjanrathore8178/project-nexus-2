@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const connect = mongoose.connect("mongodb://localhost:27017/Login-tut");
+const connect = mongoose.connect("mongodb+srv://rathoregunjan87:zpKWrV9bEL9HEsEq@project-nexus-3.tz3sx6p.mongodb.net/?retryWrites=true&w=majority&appName=project-nexus-3");
 
 
 
